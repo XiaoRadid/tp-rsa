@@ -7,7 +7,7 @@
 php think rsa:create
 ```
 ```php
- 
+
 function test(){
     $rsa = new \xiaoradid\rsa\Auth();
     $str = "sssss";   
